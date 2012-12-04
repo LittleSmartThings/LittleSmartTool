@@ -12,4 +12,6 @@ public interface Connector {
     
     void connectToSerial(String port);
     
+    Object[] list(); 
+    
 }
