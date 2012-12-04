@@ -4,3 +4,9 @@
 *.jar
 *.war
 *.ear
+/nbproject/private/
+/build/
+/LSToolGUIClient/build/
+/SerialConnect/build/
+/StratoSnapperAPI/build/
+/RXTXcomm/build/
