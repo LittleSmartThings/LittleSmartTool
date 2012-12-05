@@ -1,12 +1,16 @@
+# Compiled source #
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
-/nbproject/private/
-/build/
-/LSToolGUIClient/build/
-/SerialConnect/build/
-/StratoSnapperAPI/build/
-/RXTXcomm/build/
+
+# Build & private dirs #
+build/**/*
+*/build/*
+*/private/*
+
+# gen files #
+genfiles/**/*
+*/genfiles/*
