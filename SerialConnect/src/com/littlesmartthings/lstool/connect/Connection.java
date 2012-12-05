@@ -34,7 +34,7 @@ public class Connection {
             Thread.sleep(1500);            
         }  
         return serialPort;
-    }  
+    }
       
     public static void main(String[] args) throws Exception {
         SerialPort serPort;

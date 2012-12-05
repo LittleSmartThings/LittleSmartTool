@@ -10,3 +10,7 @@
 build/**/*
 */build/*
 */private/*
+
+# gen files #
+genfiles/**/*
+*/genfiles/*
