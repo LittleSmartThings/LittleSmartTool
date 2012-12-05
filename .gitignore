@@ -12,5 +12,6 @@ build/**/*
 */private/*
 
 # gen files #
+genfiles.properties
 genfiles/**/*
 */genfiles/*
