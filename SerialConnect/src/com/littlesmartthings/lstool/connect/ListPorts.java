@@ -4,13 +4,15 @@
  */
 package com.littlesmartthings.lstool.connect;
 
+import com.littlesmartthings.lstool.ssapi.PortLister;
 import gnu.io.CommPortIdentifier;  
 import java.util.ArrayList;
-import java.util.Collections;
    
 import java.util.Enumeration;  
+import org.openide.util.lookup.ServiceProvider;
    
-public class ListPorts {  
+@ServiceProvider(service = PortLister.class)
+public class ListPorts implements PortLister{  
    
     public Object [] list() {  
         Enumeration ports = CommPortIdentifier.getPortIdentifiers();
@@ -18,7 +20,7 @@ public class ListPorts {
           
         while(ports.hasMoreElements()) {
             String portName = ((CommPortIdentifier)ports.nextElement()).getName();
-            System.out.println(portName);
+            //System.out.println(portName);
             portNames.add(portName);
         }       
         

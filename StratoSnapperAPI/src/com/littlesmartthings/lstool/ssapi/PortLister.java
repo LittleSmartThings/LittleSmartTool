@@ -6,12 +6,10 @@ package com.littlesmartthings.lstool.ssapi;
 
 /**
  *
- * @author Administrator
+ * @author esben
  */
-public interface Connector {
+public interface PortLister {
     
-    void connectToSerial(String port);
-    
-     
+    Object[] list();
     
 }
