@@ -1,6 +1,12 @@
+# Compiled source #
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+# Build & private dirs #
+build/**/*
+*/build/*
+*/private/*
