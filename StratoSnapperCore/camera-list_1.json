@@ -1,0 +1,136 @@
+{ "cameras" : [ { "brand" : " Sony ",
+        "models" : [ { "functions " : [ { "id" : " SonNexShu " },
+                  { "id" : " SonNexVid " }
+                ],
+              "name" : " NEX Series "
+            },
+            { "functions " : [ { "id" : " SonNexShu " } ],
+              "name" : " A230, A330 "
+            },
+            { "functions " : [ { "id" : " SonNexShu " } ],
+              "name" : " A450, A500, A550 "
+            },
+            { "functions " : [ { "id" : " SonNexShu " } ],
+              "name" : " A700, A900 "
+            },
+            { "functions " : [ { "id" : " two " },
+                  { "id" : " three " }
+                ],
+              "name" : " Video camera "
+            }
+          ]
+      },
+      { "brand" : " Canon ",
+        "models" : [ { "functions " : [ { "id" : " Can5DShu " },
+                  { "id" : " Can5DVid " }
+                ],
+              "name" : " 5D Series "
+            },
+            { "functions " : [ { "id" : " Can5DShu " },
+                  { "id" : " Can5DVid " }
+                ],
+              "name" : " 7D Series "
+            },
+            { "functions " : [ { "id" : " Can5DShu " },
+                  { "id" : " Can5DVid " }
+                ],
+              "name" : " 1D Series "
+            },
+            { "functions " : [ { "id" : " Can5DShu " },
+                  { "id" : " Can5DVid " }
+                ],
+              "name" : " 500D, 550D / T1i, T2i "
+            },
+            { "functions " : [ { "id" : " Can5DShu " },
+                  { "id" : " Can5DVid " }
+                ],
+              "name" : " G Series "
+            },
+            { "functions " : [ { "id" : " Can5DShu " } ],
+              "name" : " 300D, 350D / XT "
+            },
+            { "functions " : [ { "id" : " Can5DShu " } ],
+              "name" : " 400D, 450D / XTI, XSI "
+            },
+            { "functions " : [ { "id" : " Can5DShu " },
+                  { "id" : " Can5DVid " }
+                ],
+              "name" : " 600D / T3i "
+            }
+          ]
+      },
+      { "brand" : " Minolta ",
+        "models" : [ { "functions " : [ { "id" : " MinArLibShu " } ],
+              "name" : " Dimage A200 "
+            },
+            { "functions " : [ { "id" : " MinArLibShu " } ],
+              "name" : " F100, F200, F300 "
+            },
+            { "functions " : [ { "id" : " MinArLibShu " } ],
+              "name" : " S Series "
+            }
+          ]
+      },
+      { "brand" : " Olympus ",
+        "models" : [ { "functions " : [ { "id" : " OlyArLibShu " } ],
+              "name" : " E series "
+            } ]
+      },
+      { "brand" : " Nikon ",
+        "models" : [ { "functions " : [ { "id" : " Nik70DShu " } ],
+              "name" : " Coolpix series "
+            },
+            { "functions " : [ { "id" : " MinArLibShu " },
+                  { "id" : " MinArLibShu " }
+                ],
+              "name" : " D40, D50, D60 "
+            },
+            { "functions " : [ { "id" : " Nik70DShu " } ],
+              "name" : " D70, D80, D90 "
+            },
+            { "functions " : [ { "id" : " Nik70DShu " },
+                  { "id" : " Nik70DShu " }
+                ],
+              "name" : " D3000, D5000 "
+            },
+            { "functions " : [ { "id" : " Nik70DShu " } ],
+              "name" : " D5100 "
+            },
+            { "functions " : [ { "id" : " Nik70DShu " } ],
+              "name" : " D7000 "
+            },
+            { "functions " : [ { "id" : " Nik70DShu " } ],
+              "name" : " D3 series "
+            },
+            { "functions " : [ { "id" : " Nik70DShu " } ],
+              "name" : " 1 V1 "
+            }
+          ]
+      },
+      { "brand" : " Pentax ",
+        "models" : [ { "functions " : [ { "id" : " PenLibShu " },
+                  { "id" : " PenLibZom " }
+                ],
+              "name" : " All "
+            } ]
+      },
+      { "brand" : " Sony Video ",
+        "models" : [ { "functions " : [ { "id" : " SonVidTel " },
+                  { "id" : " SonVidWid " },
+                  { "id" : " SonVidVid " },
+                  { "id" : " SonVidWid2 " },
+                  { "id" : " SonVidStill " }
+                ],
+              "name" : " All video cams "
+            } ]
+      },
+      { "brand" : " Canon Video ",
+        "models" : [ { "functions " : [ { "id" : " CanVidRec " },
+                  { "id" : " CanVidPho " },
+                  { "id" : " CanVidWid " },
+                  { "id" : " CanVidTel " }
+                ],
+              "name" : " Legria/Vixia "
+            } ]
+      }
+    ] }

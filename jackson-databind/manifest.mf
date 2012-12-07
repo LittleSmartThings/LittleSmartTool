@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.fasterxml.jackson.databind
+OpenIDE-Module-Localizing-Bundle: com/fasterxml/jackson/databind/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

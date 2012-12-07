@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.fasterxml.jackson.annotations
+OpenIDE-Module-Localizing-Bundle: com/fasterxml/jackson/annotations/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

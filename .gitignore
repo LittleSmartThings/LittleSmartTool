@@ -15,3 +15,4 @@ build/**/*
 genfiles.properties
 genfiles/**/*
 */genfiles/*
+/StratoSnapperCore/nbproject/private/
